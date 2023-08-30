@@ -1,2 +1,5 @@
-# node12-s3cmd
-installed node12 and s3cmd on amd64/ubuntu16
+# dockerfile-ubuntu-node-s3cmd
+
+- ubuntu: 20.04
+- node: 18
+- s3cmd
