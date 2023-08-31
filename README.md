@@ -5,3 +5,5 @@
 - s3cmd
 - mysql-client
 - dockerize
+- build-essential
+- python2
